@@ -13,4 +13,4 @@ greeting: "개발 서버에 오신것을 환영합니다."
 ---
 spring:
   profiles: local
-greeting: "ismoon mac pc의 로컬 서버에 오신것을 환영합니다."
+greeting: "로컬 서버에 오신것을 환영합니다."
